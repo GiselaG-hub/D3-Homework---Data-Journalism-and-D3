@@ -1,4 +1,4 @@
-Weblink: https://giselag-hub.github.io/D3_data_journalism
+Weblink: https://giselag-hub.github.io/D3_data_journalism/
 
 # D3 Homework - Data Journalism and D3
 
